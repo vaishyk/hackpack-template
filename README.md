@@ -1,6 +1,6 @@
 # Welcome to My HackPack Portfolio!
 
-Hey there! I'm Vaishy Kumar, a first-year student at **North Carolina State University**. I've been an enthusiastic member of **HackPack** since the fall of 2023.
+Hey there! I'm Vaishy Kumar, a first-year student at **North Carolina State University**. I've been an enthusiastic member of **HackPack** (NC State's cybersecurity club) since the fall of 2023.
 
 ## Portfolio Overview
 
